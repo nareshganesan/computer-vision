@@ -2,14 +2,24 @@
 
 Applications built using computer vision / deep learning algorithms.
 
-## Table of contents
+## Udacity projects
 
 | Task        |             Name             |
 | ----------- | :--------------------------: |
 | [Project 1] | [Facial keypoints detection] |
 
+## Object detection projects
+
+| Task               |            Name             |
+| ------------------ | :-------------------------: |
+| [object-detection] | [object detection projects] |
+
+[//]: # "Udacity projects"
 [project 1]: https://github.com/nareshganesan/computer-vision/tree/main/udacity-nd/P1_facial_keypoints
 [facial keypoints detection]: https://github.com/nareshganesan/computer-vision/tree/main/udacity-nd/P1_facial_keypoints
+[//]: # "Object detection projects"
+[object-detection]: https://github.com/nareshganesan/computer-vision/tree/main/object-detection
+[object detection projects]: https://github.com/nareshganesan/computer-vision/tree/main/object-detection
 
 ### development setup
 
